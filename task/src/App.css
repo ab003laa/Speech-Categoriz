@@ -1,0 +1,96 @@
+
+header{
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+  font-size: larger;
+}
+header button{
+  background-color: rgb(109, 109, 109);
+  width: 200px;
+  height: 50px;
+  font-size: large;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+header button:hover{
+  background-color: beige;
+  cursor: pointer;
+}
+
+
+body{
+  background-image:url(./project-counter.jpg);
+}
+
+/* exam css */
+.Ehead{
+  text-align: center;
+}
+.question-window{
+  background-color: rgb(218, 218, 216);
+  border: solid 1px black ;
+  width: 50%;
+  height: 400px;
+  margin: auto;
+  text-align: center;
+}
+.answer-rap button{
+  background-color: rgb(109, 109, 109);
+  width: 100px;
+  height: 50px;
+  font-size: large;
+  border-radius: 10px;
+  margin-top: 5%;
+}
+.answer-rap button:hover{
+  background-color: beige;
+
+  cursor: pointer;
+
+}
+.answer-rap{
+  display: flex;
+  justify-content: space-around;
+}
+.result {
+  color: green;
+  font-size: larger;
+}
+.result-red{
+  color: red;
+  font-size: larger;
+}
+.hide{
+  display: none;
+}
+
+
+
+.progress-bar {
+  background-color: #ccc;
+  height: 10px;
+  margin-bottom: 10px;
+}
+
+.progress {
+  background-color: #69d80d;
+  height: 100%;
+  width: 0;
+  transition: width 2s ease-in-out;
+}
+
+.try-again{
+  background-color: rgb(188, 188, 192);
+  width: 100px;
+  height: 50px;
+  font-size: large;
+  border-radius: 10px;
+  margin-top: 5%;
+}
+.try-again:hover{
+  background-color: beige;
+  cursor: pointer;
+}
+
+
