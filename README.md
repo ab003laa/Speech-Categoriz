@@ -10,7 +10,7 @@ Allows the user to try again after completing the exam.
 Calculates the user's rank based on the score.
 
 ## Technologies Used
-React: A JavaScript library for building user interfaces.
+React.js : A JavaScript library for building user interfaces.
 Express.js: A web application framework for Node.js.
 CORS: A middleware for Express.js to enable cross-origin resource sharing.
 JSON: Data format for storing the word list and scores.
@@ -31,11 +31,15 @@ npm install react-router-dom
 npm start
 The app should open automatically in your browser. If not, visit http://localhost:3000.
 
-## Server Side Setup
+## Server-Side Setup
 
 # Install the dependencies:
-npm insatll express
+npm install express
 npm install cors
 - start the server
 node words.js
 The server should start running on http://localhost:4000.
+
+----------------------------------------------
+## note
+Not your best UI experience.
