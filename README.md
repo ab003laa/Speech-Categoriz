@@ -33,7 +33,7 @@ Calculates the user's rank based on the score.
 
 ## Server-Side Setup
 
-# Install the dependencies:
+## Install the dependencies:
 - npm install express
 - npm install cors
 ## Start the server
