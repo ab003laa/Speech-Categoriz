@@ -10,36 +10,36 @@ Allows the user to try again after completing the exam.
 Calculates the user's rank based on the score.
 
 ## Technologies Used
-React.js : A JavaScript library for building user interfaces.
-Express.js: A web application framework for Node.js.
-CORS: A middleware for Express.js to enable cross-origin resource sharing.
-JSON: Data format for storing the word list and scores.
+- React.js : A JavaScript library for building user interfaces.
+- Express.js: A web application framework for Node.js.
+- CORS: A middleware for Express.js to enable cross-origin resource sharing.
+- JSON: Data format for storing the word list and scores.
 
 # Installation and Usage
 
 # Prerequisites
-Node.js and npm: Make sure you have Node.js and npm installed on your machine.
+- Node.js and npm: Make sure you have Node.js and npm installed on your machine.
 
 ## Client Side Setup
 1- Clone the repository: git clone https://github.com/ab003laa/speech-categoriz.git
 
 2- Install the dependencies:
-npm install
-npm install react-router-dom
+- npm install
+- npm install react-router-dom
 
 3- Run the React app: 
-npm start
-The app should open automatically in your browser. If not, visit http://localhost:3000.
+- npm start
+- The app should open automatically in your browser. If not, visit http://localhost:3000.
 
 ## Server-Side Setup
 
 # Install the dependencies:
-npm install express
-npm install cors
-- start the server
-node words.js
+- npm install express
+- npm install cors
+## Start the server
+- node words.js
 The server should start running on http://localhost:4000.
 
 ----------------------------------------------
-## note
+# note
 Not your best UI experience.
